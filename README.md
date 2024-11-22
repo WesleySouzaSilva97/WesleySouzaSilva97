@@ -8,7 +8,7 @@ If you enjoy my projects, consider following to stay updated! ⭐
 
 ## Olá 👋 Eu sou Wesley de Souza da Silva
 - 🌱 Focado em desenvolvimento web e análise de dados.
-- 💻 Habilidades em JavaScript, HTML e CSS para criar sites responsivos e interativos.
+- 💻 Habilidades em JavaScript, HTML5 e CSS3 para criar sites responsivos e interativos.
 - 🗺 Resido em São Paulo, Brasil.
 
 Se você gosta dos meus projetos, considere seguir para ficar por dentro das novidades! ⭐
