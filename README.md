@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Wesley de Souza da Silva
 
 - 🌱 Focused on web development and data analysis.
-- 💻 Skilled in JavaScript, HTML, and CSS for building responsive and interactive websites.
+- 💻 Skilled in JavaScript, HTML5, and CSS3 for building responsive and interactive websites.
 - 🗺 Based in São Paulo, Brazil.
   
 If you enjoy my projects, consider following to stay updated! ⭐
